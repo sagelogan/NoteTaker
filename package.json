@@ -1,14 +1,22 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Homework #11",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "logan sage",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagelogan/NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sagelogan/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/sagelogan/NoteTaker#readme"
 }
