@@ -15,6 +15,6 @@ app.use(express.static("./public"));
 require("./public/assets/js/routing")(app);
 
 
-app.listen(PORT, function() {
-    console.log("listening on port " + PORT);
+app.listen(PORT_URL, function() {
+    console.log("listening on port " + PORT_URL);
 });
